@@ -1,0 +1,35 @@
+body{
+    margin:0%;
+
+}
+
+
+.carroseis {
+    display:grid;
+    place-items: center;
+    justify-items: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+.backmain {
+    background-color: rgba(236, 83, 108, 0.411);
+    text-align: justify;
+    padding: 2%;
+}
+
+.tituloscentro {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 4% 26%;
+}
+.localcenter{
+    justify-content: center;
+}
+.objectImage {
+    margin: 0%;
+    padding: 0%;
+    width: 33.3% !important;
+    height: 5.625rem;
+    object-fit: fill;
+    object-position: center;
+}
